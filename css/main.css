@@ -9,6 +9,12 @@ h1, h2, h3 {
 h1{
   font-size: 16pt;
 }
+h2{
+  font-size: 12pt;
+}
+h3 {
+  font-size: 10pt;
+}
 a {
   color: #007bff;
   text-decoration: none;
