@@ -41,6 +41,7 @@ ol {
 }
 li{
   margin-bottom: 10px;
+  padding-left: 1em;
 }
 button {
   background-color: #0095ff;
