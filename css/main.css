@@ -29,8 +29,13 @@ nav {
   background-color: #eee;
   padding: 10px;
 }
-ul, ol {
-  list-style-type: circle;
+ul {
+  list-style: disc;
+  padding: 0;
+  margin: 0;
+}
+ol {
+  list-style: decimal;
   padding: 0;
   margin: 0;
 }
