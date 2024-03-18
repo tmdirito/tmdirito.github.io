@@ -32,6 +32,7 @@ nav {
 ul {
   list-style: disc;
   padding: 0;
+  padding-left: 1em;
   margin: 0;
 }
 ol {
@@ -41,7 +42,6 @@ ol {
 }
 li{
   margin-bottom: 10px;
-  padding-left: 1em;
 }
 button {
   background-color: #0095ff;
