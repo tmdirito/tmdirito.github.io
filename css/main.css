@@ -1,3 +1,43 @@
+body {
+  font-family: Monospace;
+  margin: 0;
+  padding: 20px;
+}
+h1, h2, h3 {
+  margin: 1.5em 0;
+}
+a {
+  color: #333;
+  text-decoration: none;
+}
 a:hover{
-  background-color: lightblue;
+  background-color: #0095ff;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+p {
+  line-height: 1.5;
+  margin-bottom: 1em;
+}
+nav {
+  background-color: #eee;
+  padding: 10px;
+}
+ul, ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+li{
+  margin-bottom: 10px;
+}
+button {
+  background-color: #0095ff;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
 }
