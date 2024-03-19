@@ -11,6 +11,9 @@ a {
   text-decoration: none;
   transition: all 0.2s ease-in-out;
 }
+#home {
+  background-color: rgb(211, 211, 211);
+}
 a:hover{
   color: #0056b3;
 }
