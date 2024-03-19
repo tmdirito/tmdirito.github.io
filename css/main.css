@@ -6,15 +6,6 @@ body {
 h1, h2, h3 {
   margin: 0.2em 0;
 }
-h1{
-  font-size: 18pt;
-}
-h2{
-  font-size: 16pt;
-}
-h3 {
-  font-size: 14pt;
-}
 a {
   color: #007bff;
   text-decoration: none;
