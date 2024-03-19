@@ -1,7 +1,7 @@
 body {
   font-family: Monospace;
   margin: 0;
-  padding: 5px;
+  padding: 10px;
 }
 h1, h2, h3 {
   margin: 0.2em 0;
@@ -22,8 +22,8 @@ img {
   width: auto;
 }
 p {
-  line-height: 1;
-  margin-bottom: 0.5em;
+  line-height: 1.5;
+  margin-bottom: 1em;
   font-size: 12px;
 }
 nav {
