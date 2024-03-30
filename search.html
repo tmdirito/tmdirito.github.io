@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Search form</title>
+    <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+    <h1>Advanced Google Search</h1>
+
+    <form action="https://www.google.com/search" method="get">
+        <div>
+            <label for="allwords">All these words:</label>
+            <input type="text" id="allwords" name="q"> 
+            </div>
+
+        <div>
+            <label for="exactword">This exact word or phrase:</label>
+            <input type="text" id="exactword" name="as_epq">
+        </div>
+
+        <div>
+            <label for="anywords">Any of these words:</label>
+            <input type="text" id="anywords" name="as_oq">
+        </div>
+
+        <div>
+            <label for="nonewords">None of these words:</label>
+            <input type="text" id="nonewords" name="as_eq">
+        </div>
+
+        <div>
+            <label for="language">Language:</label>
+            <select id="language" name="lr"> 
+                <option value="">Any Language</option>
+                <option value="lang_en">English</option>
+                <option value="lang_de">German</option>
+                <option value="lang_fr">French</option>
+                </select>
+        </div>
+
+        <button type="submit">Advanced Search</button>
+    </form>
+</body>
+</html>
