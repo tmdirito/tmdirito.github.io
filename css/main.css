@@ -59,7 +59,8 @@ section{
       }
 nav {
   background-color: #eee;  
-  padding: 10px;  
+  padding: 10px;
+  border: 1px solid black;
 }
 
     
