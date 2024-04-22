@@ -48,6 +48,14 @@ li{
   max-width: 100%;
   height: auto;
 }
-
+.left-aligned {
+  text-align: left;
+      }
+.right-aligned {
+  text-align: right;
+      }
+.centered {
+  text-align: center;
+      }
 
     
